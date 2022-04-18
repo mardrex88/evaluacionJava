@@ -12,7 +12,6 @@ public class Impuesto {
         final double IVA = 0.21;
         double price = 0;
 
-
         Scanner leer = new Scanner(System.in);
 
         System.out.println("Ingrese el precion del producto");
