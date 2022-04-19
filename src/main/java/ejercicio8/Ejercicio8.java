@@ -1,28 +1,26 @@
 package ejercicio8;
 
+import ejercicio9.Ejercicio9;
+
 import java.util.Scanner;
 
 public class Ejercicio8 {
 
+    public String leer(){
+        System.out.println("Por favor ingrese un dia de la semana");
+        String resp = new Scanner(System.in).nextLine();
+       return  resp;
+    }
     public static void main(String[] args) {
 
-        Scanner leer = new Scanner(System.in);
-        String text;
-
-        System.out.println("Por favor ingrese un dia de la semana");
-        text = leer.nextLine();
-
-        switch (text){
-            case "lunes":
-            case "martes":
-            case "miercoles":
-            case "jueves":
-            case "viernes":
-                System.out.println("Es un dia laboral");
-                break;
+        Ejercicio8 app = new Ejercicio8();
+        switch (app.leer()){
             case "Sabado":
             case " domingo":
                 System.out.println("no es un dia laboral");
+                break;
+            default:
+                System.out.println("Es un dia laborar");
         }
 
     }
