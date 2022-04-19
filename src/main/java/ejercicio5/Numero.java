@@ -8,7 +8,7 @@ public class Numero {
 
     int x=1;
     Numero app = new Numero();
-    String mensaje;
+
     while (x < 101){
         if(app.isPar(x)){
                 System.out.println(String.valueOf(x).concat(" Es Par"));
