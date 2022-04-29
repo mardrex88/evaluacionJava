@@ -1,0 +1,14 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦³װi
+o	java:S116"URename this field "SOBRE_PESO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Üשÿÿÿÿ
+o	java:S116"URename this field "PESO_IDEAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êכ±‡רÿÿÿÿ
+n	java:S116"TRename this field "BAJO_PESO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(סˆקתÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(¾Üשÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(Êכ±‡רÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(סˆקתÿÿÿÿ
+—
+java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(® ֳִ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(ר÷ׁûתÿÿÿÿ

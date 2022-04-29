@@ -1,0 +1,33 @@
+
+e
+java:S1192"ODefine a constant instead of duplicating this literal "Ingrese altura" 3 times.(…òÙß
+c
+java:S1192"MDefine a constant instead of duplicating this literal "Ingrese edad" 3 times.(Öä«÷
+j
+java:S1192"ODefine a constant instead of duplicating this literal "Ingrese Nombre" 3 times.(ù¦”Øüÿÿÿÿ
+h
+java:S1192"MDefine a constant instead of duplicating this literal "Ingrese sexo" 3 times.(³Äòäúÿÿÿÿ
+c
+java:S1192"MDefine a constant instead of duplicating this literal "Ingrese peso" 3 times.(šé…¸
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦³Ôi
+U
+java:S1854,":Remove this useless assignment to local variable "altura".(ñ¤•€ùÿÿÿÿ
+S
+java:S1854*"8Remove this useless assignment to local variable "peso".(Ã°¨Ëøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ù¦”Øüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Öä«÷
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³Äòäúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šé…¸
+N	java:S106"9Replace this use of System.out or System.err by a logger.(…òÙß
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ù¦”Øüÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(Öä«÷
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(³Äòäúÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(šé…¸
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(…òÙß
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ù¦”Øüÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(Öä«÷
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(³Äòäúÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(šé…¸
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(…òÙß
+U
+java:S1128"3Remove this unused import 'java.nio.channels.Pipe'.(èØ¯˜ûÿÿÿÿ8¼¡€Ñ†0
